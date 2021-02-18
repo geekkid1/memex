@@ -5,8 +5,8 @@ MEMEX
   SRCE : GitHub
   LINK : https://github.com/kormyen/memex
   QOTE 
-        > 'A bookmarks and notes tool to help with storage and overview. Read-only and server-less for easy sharing.' - Kormyen
-        > I think this is the beginning of an absolutely wonderful memex board.
+    > 'A bookmarks and notes tool to help with storage and overview. Read-only and server-less for easy sharing.' - Kormyen
+    > I think this is the beginning of an absolutely wonderful memex board.
   DATE : 12021-02-18
   TAGS : code, test
   DONE : true
