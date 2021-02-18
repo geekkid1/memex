@@ -4,5 +4,14 @@ MEMEX
   PERS : kormyen
   SRCE : GitHub
   LINK : https://github.com/kormyen/memex
+  TAGS : code, test
   QOTE : 'A bookmarks and notes tool to help with storage and overview. Read-only and server-less for easy sharing.' - Kormyen
+
+TEST CARD
+  TYPE : quote
+  PERS : Emily
+  QOTE : 'This is a quote card I made just now to demonstrate this whole thing without adding too much data. It may not look like much, but I can add so many cards just like this with images and items and different things really easily!' - Emily
+  TAGS : quote, test
+  DONE : true
+  REVI : true
 `
