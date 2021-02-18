@@ -1,10 +1,16 @@
 var DATABASE = `
+HADIYA'S HANDY QUILL
+  SRCE : Instagram
+  LINK : https://www.instagram.com/p/CK1iuO2B5Ey/
+  TAGS : dnd, ttrpg
+  NOTE : For use by Ranva Quill in Gwyn's Snowswood campaign
+
 MEMEX
   TYPE : quote
   PERS : Emily
   SRCE : GitHub
   LINK : https://github.com/kormyen/memex
-  QOTE 
+  QOTE
     > 'A bookmarks and notes tool to help with storage and overview. Read-only and server-less for easy sharing.' - Kormyen
     > I think this is the beginning of an absolutely wonderful memex board.
   DATE : 12021-02-18
