@@ -1,8 +1,18 @@
 'use strict'
 
-function Theme (default_theme = { background: '#222', f_high: '#fff', f_med: '#ccc', f_low: '#999', f_inv: '#fff', b_high: '#888', b_med: '#666', b_low: '#444', b_inv: '#000' }) {
+function Theme (default_theme = { background: '#222222', f_high: '#fff', f_med: '#affec7', f_low: '#888888', f_inv: '#000000', b_high: '#555555', b_med: '#333333', b_low: '#111111', b_inv: '#affec7' }) {
   const themer = this
-
+  //default_theme = { background: '#222', f_high: '#fff', f_med: '#ccc', f_low: '#999', f_inv: '#fff', b_high: '#888', b_med: '#666', b_low: '#444', b_inv: '#000' }
+/* --background: #222222;
+--f_high: #ffffff;
+--f_med: #affec7;
+--f_low: #888888;
+--f_inv: #000000;
+--b_high: #555555;
+--b_med: #333333;
+--b_low: #111111;
+--b_inv: #affec7;
+*/
   this.el = document.createElement('style')
   this.el.type = 'text/css'
 
