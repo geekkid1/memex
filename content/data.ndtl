@@ -1,6 +1,7 @@
 var DATABASE = `
 BLASEBALL
   TYPE : link
+  DONE : true
   TAGS : link, games
   LINK : https://www.blaseball.com/
   QOTE
@@ -11,12 +12,14 @@ BLASEBALL
 JUST BECAUSE
   TYPE : quote
   TAGS : quote
+  DONE : true
   QOTE
     > I don't even really know what I'm doing here, I'm jsut making a new card in this database because I can, and honestly that's alright.
     & So uhh, yeah. Carry on.
 
 CONCEPT VECTOR LOGO
   TYPE : image
+  DONE : true
   TAGS : vector, art
   DATE : 12021-02-19
   LINK : https://hundredrabbits.github.io/Dotgrid/
@@ -36,6 +39,7 @@ DIRESTONE RUNIC WAND
 
 HADIYA'S HANDY QUILL
   SRCE : Instagram
+  DONE : true
   LINK : https://www.instagram.com/p/CK1iuO2B5Ey/
   TAGS : ttrpg, saddlebag
   NOTE : For use by Ranva Quill in Gwyn's Snowswood campaign
