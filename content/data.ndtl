@@ -1,4 +1,20 @@
 var DATABASE = `
+BLASEBALL
+  TYPE : link
+  TAGS : link, games
+  LINK : https://www.blaseball.com/
+  QOTE
+    > Potentially the strangest online game I've ever seen.
+    & Involves betting on and voting on various oddly-ruled virtual games, of a sport that is almost but not quite Baseball.
+    & If you like games that are confusing for the sake of it, I think you'll like this.
+
+JUST BECAUSE
+  TYPE : quote
+  TAGS : quote
+  QOTE
+    > I don't even really know what I'm doing here, I'm jsut making a new card in this database because I can, and honestly that's alright.
+    & So uhh, yeah. Carry on.
+
 CONCEPT VECTOR LOGO
   TYPE : image
   TAGS : vector, art
