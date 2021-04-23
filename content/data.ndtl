@@ -1,4 +1,15 @@
 var DATABASE = `
+MSTARWARSSIM
+  TYPE : link
+  DONE : true
+  TAGS : link, rp, games
+  LINK : https://discord.gg/BZ2c2bDeR8
+  QOTE
+    > Hey, if you're looking at my memex board and liking what you see, you might like a discord rp server I'm on.
+    & MStarWarsSim simulates the Galactic Republic government in the midst of a war with the Hutts. We have our own timeline, our own characters, our own political factions.
+    & If you like politics, but don't want to slog through the politics of the real world, join the server at the link on this card and join in!
+    & I probably could have had a better blurb for advertising this server but I am tired at the time that I am writing this card so I am not going to put that kind of effort in, sorry.
+
 BLASEBALL
   TYPE : link
   DONE : true
