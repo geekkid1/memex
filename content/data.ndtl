@@ -1,4 +1,13 @@
 var DATABASE = `
+THE CONSTELLATION
+  TYPE : link
+  DONE : true
+  TAGS : link, games
+  QOTE
+    > I know, I know, another recruitment card can't be good. This is a card for my NationStates region, aka The Constellation!
+    & If you like NationStates and want to play alongside a small community of individualistic, well-intentioned nations, this is the region for you! Or... not, I guess. You don't have to join I just want to put a link here for no reason.
+  LINK : https://www.nationstates.net/region=the_constellation
+
 MSTARWARSSIM
   TYPE : link
   DONE : true
