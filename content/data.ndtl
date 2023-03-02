@@ -1,12 +1,20 @@
 var DATABASE = `
-THE CONSTELLATION
+TELEGRAPH
   TYPE : link
   DONE : true
-  TAGS : link, games
+  TAGS : link, publishing
   QOTE
-    > I know, I know, another recruitment card can't be good. This is a card for my NationStates region, aka The Constellation!
-    & If you like NationStates and want to play alongside a small community of individualistic, well-intentioned nations, this is the region for you! Or... not, I guess. You don't have to join I just want to put a link here for no reason.
-  LINK : https://www.nationstates.net/region=the_constellation
+    > An incredibly lightweight publishing tool that can be used to make well-formatted but not at all visually cluttered articles, journals, blogs, and other online content. It's not even explicitly organized beyond creating permalinks, so you can basically do what you want with it.
+  LINK : https://telegra.ph/
+  
+OBSIDIAN
+  TYPE : link
+  DONE : true
+  TAGS : link
+  QOTE
+    > A fully-featured note taking tool that is more extensible and more flexible than anything I've seen online or downloadable. 
+    & You only need to pay if you want automated publishing or automatic cross-device synching, otherwise you can just go right ahead and get started. The types of extensions available make the content you can keep in an Obsidian 'vault' very diverse.
+  LINK : https://obsidian.md/
 
 MSTARWARSSIM
   TYPE : link
@@ -15,9 +23,8 @@ MSTARWARSSIM
   LINK : https://discord.gg/BZ2c2bDeR8
   QOTE
     > Hey, if you're looking at my memex board and liking what you see, you might like a discord rp server I'm on.
-    & MStarWarsSim simulates the Galactic Republic government in the midst of a war with the Hutts. We have our own timeline, our own characters, our own political factions.
+    & MStarWarsSim simulates the Galactic Republic government. We have our own timeline, our own characters, our own political factions.
     & If you like politics, but don't want to slog through the politics of the real world, join the server at the link on this card and join in!
-    & I probably could have had a better blurb for advertising this server but I am tired at the time that I am writing this card so I am not going to put that kind of effort in, sorry.
 
 BLASEBALL
   TYPE : link
